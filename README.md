@@ -1,5 +1,7 @@
 # Disable Windows Defender on Windows 10
 
+## Why?
+
 **Windows Defender is infamous for its tendency to monopolize CPU and I/O
 resources.** Moreover, some of its "security" measures are undesirable and may
 put user privacy at risk. This has many practical consequences, such as:
@@ -12,6 +14,32 @@ put user privacy at risk. This has many practical consequences, such as:
 - user privacy at risk, due to automatic sending of "malware samples" to
   Microsoft,
 - …
+
+Windows 10 allows you to disable Windows Defender in the Settings, but this is
+only temporarily effective; it will be automatically re-enabled eventually –
+the exact timing for this is random and unpredictable.
+
+This repository contains a "disable" `.reg` file which can be used to
+**permanently** disable Windows Defender. But don't worry, you can revert it
+using the included "restore" `.reg` file.
+
+## Usage
+
+### Disabling Windows Defender permanently
+
+1. Clone this repository or
+  [download a ZIP archive](https://github.com/Calinou/disable-windows-defender/archive/master.zip).
+2. Double-click `disable_windows_defender_on_windows_10.reg` then accept the
+  administrator *and* the warning prompts.
+3. Reboot your system.
+
+### Restoring Windows Defender (in case something goes wrong)
+
+1. Clone this repository or
+  [download a ZIP archive](https://github.com/Calinou/disable-windows-defender/archive/master.zip).
+2. Double-click `restore_windows_defender_on_windows_10.reg` then accept the
+  administrator *and* the warning prompts.
+3. Reboot your system.
 
 ## Frequently asked questions
 
