@@ -1,6 +1,7 @@
 baseurl: /disable-windows-defender
 exclude:
   - "*.reg"
+  - LICENSE.md
 permalink: pretty
 sass:
   style: compressed

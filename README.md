@@ -71,4 +71,4 @@ To make your computing more secure, consider the following options:
 Copyright © 2017 Hugo Locurcio and contributors
 
 Files in this repository are licensed under CC0 1.0 Universal,
-see [LICENSE.md](LICENSE.md) for more information.
+see [LICENSE.md](https://github.com/Calinou/disable-windows-defender/blob/master/LICENSE.md) for more information.
