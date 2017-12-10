@@ -1,3 +1,8 @@
+---
+permalink: index.html
+layout: default
+---
+
 # Disable Windows Defender on Windows 10
 
 ## Why?
