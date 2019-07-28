@@ -33,7 +33,7 @@ using the included "restore" `.reg` file.
 ### Disabling Windows Defender permanently
 
 1. Clone this repository or
-  [download a ZIP archive](https://github.com/Calinou/disable-windows-defender/archive/master.zip).
+  [download a ZIP archive](https://github.com/disable-windows-defender/disable-windows-defender.github.io/archive/master.zip).
 2. Double-click `disable_windows_defender_on_windows_10.reg` then accept the
   administrator *and* the warning prompts.
 3. Reboot your system.
@@ -41,7 +41,7 @@ using the included "restore" `.reg` file.
 ### Restoring Windows Defender (in case something goes wrong)
 
 1. Clone this repository or
-  [download a ZIP archive](https://github.com/Calinou/disable-windows-defender/archive/master.zip).
+  [download a ZIP archive](https://github.com/disable-windows-defender/disable-windows-defender.github.io/archive/master.zip).
 2. Double-click `restore_windows_defender_on_windows_10.reg` then accept the
   administrator *and* the warning prompts.
 3. Reboot your system.
@@ -71,4 +71,4 @@ To make your computing more secure, consider the following options:
 Copyright © 2017-2019 Hugo Locurcio and contributors
 
 Files in this repository are licensed under CC0 1.0 Universal,
-see [LICENSE.md](https://github.com/Calinou/disable-windows-defender/blob/master/LICENSE.md) for more information.
+see [LICENSE.md](https://github.com/disable-windows-defender/disable-windows-defender.github.io/blob/master/LICENSE.md) for more information.
