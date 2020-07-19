@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: ""
 exclude:
   - "*.reg"
   - LICENSE.md

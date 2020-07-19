@@ -1,8 +1,26 @@
 @media (prefers-color-scheme: dark) {
   html {
-    // Crude automatic dark theme.
-    background-color: hsl(0, 0, 18%);
-    filter: invert(100%);
+    background-color: hsl(0, 0, 17%);
+  }
+
+  .markdown-body {
+    color: hsl(0, 0%, 85%);
+  }
+
+  .markdown-body a {
+    color: hsl(200, 100%, 64%);
+  }
+
+  .markdown-body .highlight pre,
+  .markdown-body pre {
+    background-color: hsl(0, 0%, 23%);
+  }
+
+  .markdown-body kbd {
+    background-color: hsl(0, 0%, 25%);
+    border-color: hsl(0, 0%, 35%);
+    box-shadow: inset 0 -1px 0 hsl(0, 0%, 35%);
+    color: hsl(0, 0%, 95%);
   }
 }
 
