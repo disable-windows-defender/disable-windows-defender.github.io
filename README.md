@@ -5,6 +5,11 @@ layout: default
 
 # Disable Windows Defender on Windows 10
 
+> **NOTICE: Permenantly disabling Windows Defender is
+> [no longer possible](https://www.pcgamer.com/permanently-disabling-windows-10s-built-in-virus-scanner-is-no-longer-an-option/)
+> in recent Windows 10 versions.** Instead, you can only rely on excluding specific
+> folders or disabling it temporarily.
+
 ## Why?
 
 **Windows Defender is infamous for its tendency to monopolize CPU and I/O
