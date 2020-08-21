@@ -16,6 +16,10 @@
     background-color: hsl(0, 0%, 23%);
   }
 
+  .markdown-body blockquote {
+    color: hsl(0, 0%, 70%);
+  }
+
   .markdown-body kbd {
     background-color: hsl(0, 0%, 25%);
     border-color: hsl(0, 0%, 35%);
@@ -32,4 +36,8 @@
 
 h1 {
   text-align: center;
+}
+
+.markdown-body blockquote {
+  border-left-color: hsl(0, 75%, 60%);
 }
